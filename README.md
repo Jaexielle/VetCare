@@ -1,5 +1,5 @@
 # VetCare
-VetCare Website is created with the use of html, css, js, sql, and php.
+VetCare Website is created with the use of html, css, js, sql, and php. This is an improved version of VetSite.
 
 This website is made for the user to set an appointment to veterinary clinic, VetCare. It has a client and admin server. In client server it lets the user set a request for appointment to the clinic. It also let the user see their pet/s details such as the medications prescribed, vaccines, and upcoming appointments. The users can also view their requested, approved, and cancelled appointments.
 
